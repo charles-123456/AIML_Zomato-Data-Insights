@@ -118,6 +118,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 For queries or support, reach out to:
-- **Email:** your-email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Email:** charlesit333@example.com
+- **GitHub:** [Your GitHub Profile](https://github.com/charles-123456)
 
